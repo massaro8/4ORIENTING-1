@@ -355,16 +355,16 @@ p {
 
 #test h1 {
   font-size: 3rem;
-  text-align: center; 
-  
+  text-align: center;
+
 }
 
 #test h2 {
-  
+
   width: fit-content;
   font-size: 2rem;
-  text-align: center; 
-  
+  text-align: center;
+
 }
 
 .test-top {
@@ -393,7 +393,7 @@ p {
   text-align: center;
   max-width: 1000px;
   margin: 0 auto;
- 
+
 }
 .orientamento-top {
   width: 100%;
@@ -403,8 +403,8 @@ p {
 
 #orientamento h1 {
   font-size: 3rem;
-  text-align: center; 
-  
+  text-align: center;
+
 }
 
 #orientamento h2 {
@@ -448,16 +448,16 @@ p {
 
 #borse h1 {
   font-size: 3rem;
-  text-align: center; 
-  
+  text-align: center;
+
 }
 
 #borse h2 {
-  
+
   width: fit-content;
   font-size: 2rem;
-  text-align: center; 
-  
+  text-align: center;
+
 }
 
 #borse .cta {
@@ -615,10 +615,10 @@ p {
     flex-basis: 45%;
     margin: 2.5%;
   }
- 
+
   /* End Services Section */
 
- 
+
 
   /* About */
   #about .about {
