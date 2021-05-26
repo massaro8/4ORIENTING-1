@@ -345,3 +345,14 @@ p {
   }
 }
 /* End  Media Query For Desktop */
+
+/* Table Section */
+#Table{
+  align-content: center;
+  margin-top: 50px;
+}
+#Table .tab tr td{
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+}
