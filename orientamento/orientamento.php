@@ -18,7 +18,7 @@
           <div class="hamburger"><div class="bar"></div></div>
           <ul>
             <li><a href="../index.html" data-after="Home">Home</a></li>
-            <li><a href="../test/test.html" data-after="Test">Test</a></li>
+            <li><a href="../test/test.php" data-after="Test">Test</a></li>
             <li><a href="#" data-after="Orientamento">Orientamento</a></li>
             <li><a href="../borsediStudio/borseStudio.html" data-after="Borse">Borse di studio</a></li>
             <li><a href="../contattaci/contattaci.html" data-after="Contact">Contatti</a></li>

@@ -9,6 +9,10 @@ html {
   font-family: "Montserrat", sans-serif;
   scroll-behavior: smooth;
 }
+a {
+  color: black;
+  text-decoration: none;
+}
 
 .container {
   min-height: 100vh;
@@ -516,16 +520,22 @@ p {
 
 .domande {
   flex-direction: column;
-  text-align: start;
-  width: 1000px;
+  text-align: center;
+  width: 10000px;
+  height: 100px;
   margin: 0 auto;
   background-color: white;
+}
+.domande-contenitore {
+  padding: 5px;
+  margin: 5px;
 }
 
 .titolo {
   font-size: 3rem;
   margin-top: 110px;
   color: crimson;
+  text-align: center;
 }
 .sottotitolo {
   margin: revert;
@@ -540,4 +550,38 @@ p {
   border-radius: 25px;
   border: 2px solid #73ad21;
   padding: 20px;
+}
+.avanti {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #fdbe33 #000 #d77206;
+  border-radius: 6px;
+  background: linear-gradient(#f3ae0f, #e38916) #e38916;
+  transition: 0.2s;
+}
+a.button24:hover {
+  background: linear-gradient(#f5ae00, #f59500) #f5ae00;
+}
+a.button24:active {
+  background: linear-gradient(#f59500, #f5ae00) #f59500;
+}
+
+.fine {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #fdbe33 #000 #d77206;
+  border-radius: 6px;
+  background: linear-gradient(#f3ae0f, #e38916) #e38916;
+  transition: 0.2s;
+  text-align: center;
 }
